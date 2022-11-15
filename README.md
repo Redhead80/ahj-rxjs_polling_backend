@@ -1,6 +1,6 @@
-#### Deployment: <a href="https://sergius92739.github.io/ahj-11.1-rxjs_poling_frontend/">Github Pages</a>
-#### Frontend: <a href="https://github.com/Sergius92739/ahj-11.1-rxjs_poling_frontend">Repository</a>
-#### Server: <a href="https://ahj-11-1-rxjs-poling-sergius.herokuapp.com/">Heroku</a>
+#### Deployment: <a href="https://redhead80.github.io/ahj-rxjs_polling_frontend/">Github Pages</a>
+#### Frontend: <a href="https://github.com/Redhead80/ahj-rxjs_polling_frontend">Repository</a>
+#### Server: <a href="https://ahj-rxjs-polling-redhead80.herokuapp.com/">Heroku</a>
 
 ---
 
